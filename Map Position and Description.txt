@@ -1,0 +1,3 @@
+Map Position: https://mapzen.com/data/metro-extracts/metro/san-francisco_california/
+Description: I chose this position because I recently move here to San Fransisco, and I was interested
+in discovering more abut the area in openstreetmap.
